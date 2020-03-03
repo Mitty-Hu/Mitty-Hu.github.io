@@ -6,8 +6,8 @@ email: mxhu.sjtu@gmail.com
 description: ""
 keyword: ""
 url: "https://mitty-hu.github.io/blog"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
-
+#baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+root: /blog
 
 
 # SNS settings
